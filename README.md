@@ -107,19 +107,6 @@ O dashboard possui um filtro por **mês**, permitindo alterar a análise conform
 > <img width="607" height="385" alt="image" src="https://github.com/user-attachments/assets/16ec3118-4d9b-4d01-9a6d-c4bbd4618415" />
 
 
-```text
-📁 imagens/
-└── dashboard.png
-```
-
-Depois de adicionar a imagem ao repositório, substitua este bloco por:
-
-```markdown
-![Dashboard de Vendas](./imagens/dashboard.png)
-```
-
----
-
 ## 📁 Estrutura do projeto
 
 ```text
